@@ -1,0 +1,73 @@
+%-------------------------------------------------------
+\documentclass{beamer}
+\usefonttheme[onlymath]{serif}
+% \usetheme{beaver}
+% \usetheme{Hannover}
+% \usetheme{Singapore}
+% \usetheme{CambridgeUS}
+% \usetheme{Boadilla}
+\usetheme{Madrid}
+\usecolortheme{beaver}
+% \usetheme{Frankfurt}
+% \usecolortheme{beaver}
+\setbeamertemplate{navigation symbols}{}
+
+%\hypersetup{pdfpagemode=FullScreen}
+
+\usepackage[mode=build]{standalone}
+\usepackage[absolute,overlay]{textpos}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{hyperref}
+\usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage[rightcaption]{sidecap}
+\usepackage{caption}
+% \usepackage{emoji}
+% \graphicspath{{../03-outputs/figures/}}
+
+\usepackage{apacite}
+%\usepackage{natbib}
+\usepackage{etoolbox}
+\renewenvironment{APACrefURL}[1][]{}{}
+\AtBeginEnvironment{APACrefURL}{\renewcommand{\url}[1]{}}
+\renewcommand{\doiprefix}{doi:~\kern-1pt}
+
+\bibliographystyle{apacite}
+
+\title{Power BI}
+\subtitle{Introducción y ejercicio}
+\author{Alejandro Acosta León}
+
+\date{\today}
+
+\logo{
+\includegraphics[width=1.5cm]{C:/Users/alejo/OneDrive - Universidad de Las Américas/Ico/logo-udla.png}
+}
+
+%-------------------------------------------------------
+\begin{document}
+\maketitle
+
+\section{Introducción}
+\begin{frame}
+	\frametitle{En esta sesión revisaremos:}
+		\begin{itemize}
+			\item ¿Qué es Power BI y por qué utilizarlo?
+			\item ¿Qué NO es Power BI?
+			\item 
+		\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Algunos recursos importantes}
+		\begin{itemize}
+			\item Github del curso: \url{}
+			\item Descarga Power BI: \url{https://powerbi.microsoft.com/en-us/downloads/}
+		\end{itemize}
+\end{frame}
+
+
+\end{document}
