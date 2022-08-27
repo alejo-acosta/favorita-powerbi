@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1661617409 "c:/Users/Alejo/OneDrive - Universidad de Las Américas/UDLA/courses/favorita-powerbi/presentation/PowerBI.tex" "PowerBI.pdf" "PowerBI" 1661617418
+["pdflatex"] 1661622235 "c:/Users/Alejo/OneDrive - Universidad de Las Américas/UDLA/courses/favorita-powerbi/presentation/PowerBI.tex" "PowerBI.pdf" "PowerBI" 1661622239
   "C:/Users/Alejo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1661475342 81088 29d6fa367ac022d1b69251d68c0742e6 ""
   "C:/Users/Alejo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1661474610 10246961 88a08cbeeb3e6bbc1d6123a7c038f99e ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1254938640 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -31,12 +31,14 @@
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmss10.tfm" 1254938640 10976 59d4d2acacc56ba9abc92645023932ec ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmss12.tfm" 1254938640 11024 7a83ae8920360cd8bd5d0289069119dc ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmss8.tfm" 1254938640 10976 d5243dcaf5ba5ee7825c8438c6b7a7ea ""
+  "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmss9.tfm" 1254938640 11004 a6c4e1a908f2608664e4229dbcec5884 ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmssbx10.tfm" 1254938640 10956 dad25672db463289a56f0700c0488a86 ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmtt10.tfm" 1254938640 1340 adaa94f9add991a099a6fc98bbb5f02c ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/lm/rm-lmtt8.tfm" 1254938640 1348 031da1f909f0873a1967fa7d7d17d43e ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb" 1254938640 97408 f595704ec2a07246c2d6f7b602587452 ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb" 1254938640 96107 daf52840b555e3b38f9679b629b5e2df ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb" 1254938640 94400 e33ecfb646a9f148e2e53da01a9168fe ""
+  "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss9.pfb" 1254938640 95954 abf895092b61a36df40fa7d488db188a ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb" 1254938640 119663 1a3a2206591ddc98c6d6c6271a282516 ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb" 1254938640 113227 d3d1adc024746ff57b20efba82c6d365 ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt8.pfb" 1254938640 115291 8eef1191953586767e75b29670028b8c ""
@@ -259,11 +261,11 @@
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1636284872 56029 3f7889dab51d620aa43177c391b7b190 ""
   "C:/Users/Alejo/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1623005690 4902 efb3d66683a2da2a232f71e3a571a899 ""
   "C:/Users/alejo/OneDrive - Universidad de Las Américas/Ico/economia-logo.png" 1647010634 5082 cf4c5f4f76d23ebcaf02ee9068a6052d ""
-  "PowerBI.aux" 1661617417 2360 c23af8c83899814aba3395ae126052b5 "pdflatex"
-  "PowerBI.nav" 1661617417 993 aecc429ae93c341d459a29ba893d4be0 "pdflatex"
-  "PowerBI.out" 1661617417 106 faa2f211b8cc40558217c1b391102865 "pdflatex"
-  "PowerBI.tex" 1661617398 5082 9b7f4e0bf8a74391ccd80e531feb1eeb ""
-  "c:/Users/Alejo/OneDrive - Universidad de Las Américas/UDLA/courses/favorita-powerbi/presentation/PowerBI.tex" 1661617398 5082 9b7f4e0bf8a74391ccd80e531feb1eeb ""
+  "PowerBI.aux" 1661622238 2608 b0745664eced405e49b60c56510598c1 "pdflatex"
+  "PowerBI.nav" 1661622238 1169 9fd697beecfb2933080a08f5ec5c59a7 "pdflatex"
+  "PowerBI.out" 1661622238 106 faa2f211b8cc40558217c1b391102865 "pdflatex"
+  "PowerBI.tex" 1661622233 5406 1e32f65982c04a6173643a846dd7e96a ""
+  "c:/Users/Alejo/OneDrive - Universidad de Las Américas/UDLA/courses/favorita-powerbi/presentation/PowerBI.tex" 1661622233 5406 1e32f65982c04a6173643a846dd7e96a ""
   "excel.png" 1661613258 63651 795b11cf6b7f9066fed317e97e5ac201 ""
   "quadrant.png" 1661613258 64214 0f9193d0287be974a81547e760a6266c ""
   (generated)

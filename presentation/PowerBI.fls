@@ -1792,20 +1792,31 @@ INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.p
 INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
 INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
 INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\rm-lmss9.tfm
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
+INPUT C:\Users\alejo\OneDrive - Universidad de Las Américas\Ico\economia-logo.png
 OUTPUT PowerBI.nav
 OUTPUT PowerBI.toc
 OUTPUT PowerBI.snm
 INPUT PowerBI.aux
 INPUT .\PowerBI.out
 INPUT .\PowerBI.out
-INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rmtt.enc
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rm.enc
+INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\lm\lm-rmtt.enc
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss10.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss10.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss12.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss12.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss8.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss8.pfb
+INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss9.pfb
+INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmss9.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmssbx10.pfb
 INPUT C:\Users\Alejo\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmtt10.pfb
